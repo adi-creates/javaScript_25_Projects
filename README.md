@@ -1,1 +1,1 @@
-# javaScript_50_Projects
+# javaScript_25_Projects
